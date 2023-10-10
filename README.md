@@ -1,4 +1,4 @@
-# React interview tasks v.2
+# React Redux-toolkit Thunk
 
 Open cloud developemnt environment:
 
